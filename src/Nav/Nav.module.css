@@ -1,0 +1,23 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+    background-color:white;
+}
+.navLinks {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border: 1px solid rgb(233, 230, 230);
+    padding: 3px 5px;
+    background-color:rgb(252, 249, 251);
+    transition: 0.3s;
+    border-radius: 3px;
+
+}
+
+.navLinks:hover {
+    background-color:white;
+    border: 1px solid grey;
+    color:rgb(49, 49, 49);
+}

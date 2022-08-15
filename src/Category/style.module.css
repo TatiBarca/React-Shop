@@ -1,0 +1,24 @@
+.cartBtn {
+    background-color:white;
+    border: 1px solid rgb(223, 218, 218);
+    margin-right: 2px;
+    border-radius: 3px;
+    transition: 0.2s;
+    cursor: pointer;
+}
+.cartBtn:active{
+    border: 1px solid grey;
+}
+
+.cartBtnS {
+    background-color:white;
+    border: 1px solid rgb(223, 218, 218);
+    margin-right: 2px;
+    border-radius: 3px;
+    transition: 0.2s;
+}
+
+.total {
+    display: inline-block;
+    margin-top: 10px;
+}
